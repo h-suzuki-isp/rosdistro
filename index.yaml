@@ -30,7 +30,7 @@ distributions:
   humble:
     distribution: [humble/distribution.yaml]
     # distribution_cache: http://repo.ros2.org/rosdistro_cache/humble-cache.yaml.gz
-    distribution_cache: https://github.com/h-suzuki-isp/rosdistro/releases/download/0.5.0-5/humble-cache.yaml.gz
+    distribution_cache: https://github.com/h-suzuki-isp/rosdistro/releases/download/vros2caret-3/humble-cache.yaml.gz
   hydro:
     distribution: [hydro/distribution.yaml]
     distribution_cache: http://repositories.ros.org/rosdistro_cache/hydro-cache.yaml.gz
